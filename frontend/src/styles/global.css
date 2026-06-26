@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #f8fafc;
+}
